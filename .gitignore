@@ -1,0 +1,11 @@
+## .NET
+bin/
+obj/
+*.user
+.vs/
+
+## 環境設定（接続文字列など個人設定はコミットしない）
+appsettings.Development.json
+
+## その他
+*.log
